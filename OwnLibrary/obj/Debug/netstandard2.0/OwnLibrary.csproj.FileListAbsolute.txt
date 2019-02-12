@@ -1,0 +1,6 @@
+C:\Users\Comiker\source\repos\OwnLibrary\OwnLibrary\bin\Debug\netstandard2.0\OwnLibrary.deps.json
+C:\Users\Comiker\source\repos\OwnLibrary\OwnLibrary\bin\Debug\netstandard2.0\OwnLibrary.dll
+C:\Users\Comiker\source\repos\OwnLibrary\OwnLibrary\obj\Debug\netstandard2.0\OwnLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Comiker\source\repos\OwnLibrary\OwnLibrary\obj\Debug\netstandard2.0\OwnLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Comiker\source\repos\OwnLibrary\OwnLibrary\obj\Debug\netstandard2.0\OwnLibrary.AssemblyInfoInputs.cache
+C:\Users\Comiker\source\repos\OwnLibrary\OwnLibrary\obj\Debug\netstandard2.0\OwnLibrary.AssemblyInfo.cs
